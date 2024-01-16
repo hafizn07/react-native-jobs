@@ -2,6 +2,7 @@
   <br />
       <img src="https://raw.githubusercontent.com/hafizn07/react-native-jobs/main/assets/images/banner.jpg" alt="Project Banner">
   <br />
+  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
